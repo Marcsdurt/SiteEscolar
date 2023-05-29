@@ -60,7 +60,7 @@ nav ul li a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 49px;
+    padding: 49px 0 60px 0;
 }
 
 .areas .box-1,
