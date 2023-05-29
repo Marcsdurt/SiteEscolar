@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="calendario.css">
+</style>
+<script>
+  function setActive(element) {
+    var thList = document.getElementsByTagName('th');
+    for (var i = 0; i < thList.length; i++) {
+      thList[i].classList.remove('active');
+    }
+    element.classList.add('active');
+  }
+</script>
+    <title>Calendario</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="">Sobre a escola</a></li>
+            <li><a href="">Docentes</a></li>
+            <li><a href="">Admissões</a></li>
+            <li><a href="">Ouvidoria</a></li>
+        </ul>
+    </nav>
+
+    <h2 class="calendarioLetivo-text">Calendário Letivo</h2>
+    <h3 class="ano">2023</h3>
+   
+        <table>
+            <tr>
+                <th onclick="setActive(this)">Janeiro</th>
+                <th onclick="setActive(this)">Fevereiro</th>
+                <th onclick="setActive(this)">Março</th>
+                <th onclick="setActive(this)">Abril</th>
+                <th onclick="setActive(this)">Maio</th>
+                <th onclick="setActive(this)">Junho</th>
+                <th onclick="setActive(this)">Julho</th>
+                <th onclick="setActive(this)">Agosto</th>
+                <th onclick="setActive(this)">Setembro</th>
+                <th onclick="setActive(this)">Outubro</th>
+                <th onclick="setActive(this)">Novembro</th>
+                <th onclick="setActive(this)">Dezembro</th>
+            </tr>
+        </table>
+    
+</body>
+</html>
