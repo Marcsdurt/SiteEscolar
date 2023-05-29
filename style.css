@@ -108,6 +108,21 @@ nav ul li a:hover {
     margin-bottom: -30px;
 }
 
+.Comunicados-text{
+    color: #b9b9b9;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 10px;
+}
+
+.line-comunicados{
+    margin: auto;
+    background-color: #f0f0f0;
+    width: 300px;
+    height: 2px;
+}
+
+
 .carousel-wrapper {
     height: 300px;
     position: relative;
