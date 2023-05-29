@@ -12,3 +12,5 @@ Bem-vindos à tela inicial do site, que proporciona uma ambientação agradável
 4. Comunicados relacionados a olimpíadas, feiras e eventos: A escola incentiva a participação ativa dos alunos em competições, feiras científicas e eventos especiais. Nessa seção, são fornecidas informações detalhadas sobre as próximas olimpíadas, feiras de ciências e outros eventos educacionais em que a escola está envolvida. Isso permite que os alunos se preparem adequadamente e aproveitem ao máximo essas oportunidades enriquecedoras.
 
 A tela inicial foi projetada para facilitar o acesso a essas informações vitais, garantindo que os alunos e pais estejam sempre atualizados e bem informados. A escola valoriza o envolvimento ativo de sua comunidade e se esforça para fornecer um ambiente educacional excepcional. Caso haja alguma dúvida adicional ou necessidade de suporte, a equipe está pronta para ajudar.
+
+Visite: https://site-escolar-l6h8rrs9z-marcsdurt.vercel.app
