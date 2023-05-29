@@ -1,0 +1,109 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    background-color: #d9d9d9;
+    width: 100%;
+    height: 25px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0px 174.6px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 2px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #1264b0;
+}
+
+nav ul li a:hover {
+    color: #b07e12;
+}
+
+.banner {
+    width: 100%;
+    height: 211px;
+    background: linear-gradient(90deg, #1264b0 2.15%, #689eee 94.73%);
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+#brasao {
+    width: 140px;
+    height: 140px;
+    margin-right: 20px;
+    border-radius: 50%;
+    display: flex;
+    margin-left: 190px;
+}
+
+.banner span {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 57px;
+    color: #ffffff;
+}
+
+.areas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 49px;
+}
+
+.areas .box-1,
+.box-2,
+.box-3,
+.box-4 {
+    margin-right: 49px;
+}
+.areas .box-1,
+.box-2,
+.box-3,
+.box-4,
+.box-5 {
+    width: 190px;
+    height: 125px;
+    background: #d9d9d9;
+    border-radius: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.areas .box-1 {
+    background: #1264b0;
+}
+.areas .box-2 {
+    background: #216d97;
+}
+.areas .box-3 {
+    background: #2a7287;
+}
+.areas .box-4 {
+    background: #377a71;
+}
+.areas .box-5 {
+    background: #43815c;
+}
+
+.areas a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: -30px;
+}
